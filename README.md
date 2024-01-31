@@ -1,2 +1,2 @@
 # Check out my website
-arinkhanna.com
+[arinkhanna.com](https://www.arinkhanna.com)
