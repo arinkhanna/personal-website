@@ -300,7 +300,8 @@ img {
 }
 .PwCcenter { 
   width: 100%;
-  margin-top: 10000px;
+  /* margin-top: 40px; */
+  height: 100%;
 }
 
 .spotbox {
